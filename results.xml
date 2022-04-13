@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1649813702" />
+    <testcase name="test_all" classname="test.test_rgb_mixer" file="/home/zerotoasic/Desktop/part_2/rgb_mixer/test/test_rgb_mixer.py" lineno="32" time="31.253236293792725" sim_time_ns="2654230000.0" ratio_time="84926564.88592711">
+      <failure />
+    </testcase>
+  </testsuite>
+</testsuites>
